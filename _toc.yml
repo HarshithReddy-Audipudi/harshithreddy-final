@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+chapters:
+  - file: resume
+  - file: experiments
+  - file: deployment
+  - file: video
