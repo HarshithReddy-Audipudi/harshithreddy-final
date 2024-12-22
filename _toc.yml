@@ -5,3 +5,4 @@ chapters:
   - file: experiments
   - file: deployment
   - file: video
+  - file: final_code/h-P  # Add the notebook path here, without .ipynb extension
